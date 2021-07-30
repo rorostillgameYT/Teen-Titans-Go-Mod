@@ -4,7 +4,7 @@
  <p align="center">
    Custom Teen Titans Go texures for venge.io Enjoy
     <br />
-    <a href="https://github.com/KruzShady/vWeeb/releases/latest/download/Teen Titans-Go-Mod.zip">Download</a>
+    <a href="https://github.com/rorostillgameYT/Teen-Titans-Go-Mod/releases/download/v1.0.0/Teen_Titans_mod.zip">Download</a>
     ·
     <img alt="Total Downloads" src="https://img.shields.io/github/downloads/dezgg/Neon-Mod/total?label=Downloads">
     ·
