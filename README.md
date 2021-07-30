@@ -6,9 +6,9 @@
     <br />
     <a href="https://github.com/rorostillgameYT/Teen-Titans-Go-Mod/releases/download/v1.0.0/Teen_Titans_mod.zip">Download</a>
     ·
-    <img alt="Total Downloads" src="https://img.shields.io/github/downloads/dezgg/Neon-Mod/total?label=Downloads">
+    <img alt="Total Downloads" src="https://img.shields.io/github/downloads/rorostillgameYT/Teen-Titans-Go-Mod/total?label=Downloads">
     ·
-    <a href="https://github.com/DezGG/Neon-Mod/issues">Report Bugs</a>
+    <a href="https://github.com/rorostillgameYT/Teen-Titans-Go-Mod/issues">Report Bugs</a>
   </p>
 </p>
 
