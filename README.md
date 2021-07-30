@@ -1,8 +1,4 @@
 # Teen-Titans-Go-Mod
-<p align="center" style="margin-bottom: 0px !important;">
-  <img width="200" src="https://pasteboard.co/K0b88jp.png" align="center">
-</p>
-
 <h1 align="center" style="margin-top: 0px;">Teen-Titans-Go-Mod</h1>
 
  <p align="center">
